@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+model_E9EC20BD_E2EF_8884_41C3_BD4B2B9FD923.label = GỐC
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
