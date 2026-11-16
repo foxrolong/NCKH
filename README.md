@@ -11,3 +11,8 @@ https://drive.google.com/file/d/1_wssfMNy4Z7_AzIuL1ggp5UPElKHd4ZI/view?usp=shari
 ## 3D Vista
 
 https://drive.google.com/file/d/1Ml4OyGjci1k0fPkvHVLC2vWzB-C5kOp9/view?usp=sharing
+
+trong dự án mô hình vẫn nằm trong môt file duy nhất chưa tách ra và ở trong thư mục 
+```
+cd:/NCKH/file sketchup/mohinh/sketchup/GỐC.skp
+```
